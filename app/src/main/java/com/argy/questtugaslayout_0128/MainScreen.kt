@@ -19,4 +19,11 @@ fun MainScreen() {
             backgroundColorRes = R.color.card_purple,
             addressColorRes = R.color.yellow_text
         ),
+        StudentCardData(
+            nameRes = R.string.name_3,
+            phoneRes = R.string.phone_3,
+            addressRes = R.string.address_3,
+            backgroundColorRes = R.color.card_blue,
+            addressColorRes = R.color.white
+        ),
 }
