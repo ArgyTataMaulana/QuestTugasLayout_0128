@@ -16,6 +16,7 @@
     <!-- data card 3 -->
     <string name="name_3">mamat gong</string>
     <string name="phone_3">087725666797</string>
+    <string name="address_3">Kalasan, Sleman</string>
     <!-- data card 4 -->
     <!-- footer -->
 </resources>
