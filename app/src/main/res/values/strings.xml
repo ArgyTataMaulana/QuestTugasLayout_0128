@@ -22,5 +22,7 @@
     <string name="name_4">Ahmad raffi</string>
     <string name="phone_4">087725666793</string>
     <string name="address_4">Jatinom, Klaten</string>
+
     <!-- footer -->
+    <string name="copyright_text">Copyright, 2026</string>
 </resources>
