@@ -6,7 +6,10 @@
     <!-- data card 1 -->
     <string name="name_1">Argy Tata Maulana</string>
     <string name="phone_1">087725666798</string>
+    <string name="address_1">Sleman, Sleman</string>
+
     <!-- data card 2 -->
+    <string name="name_2">Piji Fathoni</string>
     <!-- data card 3 -->
     <!-- data card 4 -->
     <!-- footer -->
