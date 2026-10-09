@@ -4,5 +4,12 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun MainScreen() {
-
+    val studentList = listOf(
+        StudentCardData(
+            nameRes = R.string.name_1,
+            phoneRes = R.string.phone_1,
+            addressRes = R.string.address_1,
+            backgroundColorRes = R.color.card_gray,
+            addressColorRes = R.color.yellow_text
+        ),
 }
