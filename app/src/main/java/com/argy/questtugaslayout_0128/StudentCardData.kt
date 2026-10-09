@@ -8,8 +8,7 @@ data class StudentCardData(
     @StringRes val phoneRes: Int,
     @StringRes val addressRes: Int,
     @ColorRes val backgroundColorRes: Int,
-    @ColorRes val addressColorRes: Int
-) {
-    val phoneColorRes: Int
-    val isCursiveFont: Boolean
-}
+    @ColorRes val addressColorRes: Int,
+    @ColorRes val phoneColorRes: Int,
+    val isCursiveFont: Boolean = false
+)
