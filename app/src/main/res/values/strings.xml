@@ -21,5 +21,6 @@
     <!-- data card 4 -->
     <string name="name_4">Ahmad raffi</string>
     <string name="phone_4">087725666793</string>
+    <string name="address_4">Jatinom, Klaten</string>
     <!-- footer -->
 </resources>
