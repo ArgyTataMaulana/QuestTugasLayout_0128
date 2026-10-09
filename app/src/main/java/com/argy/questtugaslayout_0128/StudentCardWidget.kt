@@ -1,5 +1,6 @@
 package com.argy.questtugaslayout_0128
 
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -24,6 +25,13 @@ fun StudentCardWidget(
             containerColor = colorResource(id = data.backgroundColorRes)
         )
     ){
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(16.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ){
 
+        }
     }
 }
