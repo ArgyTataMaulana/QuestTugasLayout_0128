@@ -13,4 +13,5 @@
     <color name="card_blue">#0000FF</color>
     <color name="card_green">#007A00</color>
     <color name="yellow_text">#CDDC39</color>
+    <color name="cyan_text">#00E5FF</color>
 </resources>
