@@ -73,6 +73,12 @@ fun StudentCardWidget(
                     fontSize = 13.sp
                 )
             }
+            // Logo umy kanan
+            Image(
+                painter = painterResource(id = R.drawable.logo_umy),
+                contentDescription = null,
+                modifier = Modifier.size(52.dp)
+            )
         }
     }
 }
